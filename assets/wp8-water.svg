@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="WP8 Communication, dissemination and exploitation illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6fc"/>
+      <stop offset="1" stop-color="#cfe6f5"/>
+    </linearGradient>
+    <linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed0f0"/>
+      <stop offset="1" stop-color="#2f7fc0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path d="M0,660 C120,630 240,690 380,660 C520,630 640,690 800,660 L800,800 L0,800 Z" fill="#a9d0f0"/>
+  <path d="M0,725 C140,695 260,755 400,725 C560,695 700,755 800,725 L800,800 L0,800 Z" fill="#5fa8e0"/>
+  <path d="M235,330 L235,560 Q235,590 265,590 L300,590 L300,330 Z" fill="#1f6bb3"/>
+  <path d="M300,350 L560,290 L620,330 L620,560 L560,600 L300,540 Z" fill="url(#dropG)"/>
+  <path d="M620,330 L700,300 L700,590 L620,560 Z" fill="#5fa8e0"/>
+  <rect x="235" y="440" width="34" height="46" rx="10" fill="#163d66"/>
+  <g stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.55">
+    <path d="M300,420 L560,400"/>
+    <path d="M300,470 L560,455"/>
+  </g>
+  <g stroke="#2f7fc0" stroke-width="11" stroke-linecap="round" fill="none">
+    <path d="M760,320 A110,110 0 0 1 760,470"/>
+    <path d="M772,290 A150,150 0 0 1 772,505"/>
+  </g>
+  <g stroke="#5fa8e0" stroke-width="11" stroke-linecap="round" fill="none">
+    <path d="M748,355 A85,85 0 0 1 748,435"/>
+  </g>
+  <path d="M560,220 C560,220 545,245 545,258 A15,15 0 1 0 575,258 C575,245 560,220 560,220 Z" fill="url(#dropG)"/>
+  <path d="M640,180 C640,180 625,205 625,218 A15,15 0 1 0 655,218 C655,205 640,180 640,180 Z" fill="#5fa8e0"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="WP3 Water management, land use and monitoring experiments illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6fc"/>
+      <stop offset="1" stop-color="#cfe6f5"/>
+    </linearGradient>
+    <linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed0f0"/>
+      <stop offset="1" stop-color="#2f7fc0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path d="M0,650 C120,620 240,680 380,650 C520,620 640,680 800,650 L800,800 L0,800 Z" fill="#a9d0f0"/>
+  <path d="M0,720 C140,690 260,750 400,720 C560,690 700,750 800,720 L800,800 L0,800 Z" fill="#5fa8e0"/>
+  <path d="M400,130 C400,130 250,330 250,450 A150,150 0 1 0 550,450 C550,330 400,130 400,130 Z" fill="url(#dropG)"/>
+  <ellipse cx="400" cy="505" rx="82" ry="18" fill="#ffffff" opacity="0.35"/>
+  <g stroke="#ffffff" stroke-linecap="round">
+    <path d="M330,420 L470,420" stroke-width="10"/>
+    <path d="M330,465 L470,465" stroke-width="10"/>
+    <path d="M330,510 L470,510" stroke-width="10"/>
+  </g>
+  <path d="M440,380 L440,560" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <g stroke="#2f7fc0" stroke-width="7" stroke-linecap="round">
+    <path d="M452,392 L468,392"/>
+    <path d="M452,420 L468,420"/>
+    <path d="M452,448 L468,448"/>
+    <path d="M452,476 L468,476"/>
+    <path d="M452,504 L468,504"/>
+  </g>
+  <circle cx="612" cy="370" r="34" fill="#1f6bb3" stroke="#ffffff" stroke-width="8"/>
+  <path d="M612,300 L612,336" stroke="#2f7fc0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M612,404 L612,440 L640,440" stroke="#2f7fc0" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="612" cy="452" r="16" fill="#ffffff" opacity="0.9"/>
+</svg>

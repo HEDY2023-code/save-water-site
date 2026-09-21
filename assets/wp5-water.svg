@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="WP5 Vulnerability assessment and water ecosystem sustainability illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6fc"/>
+      <stop offset="1" stop-color="#cfe6f5"/>
+    </linearGradient>
+    <linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed0f0"/>
+      <stop offset="1" stop-color="#2f7fc0"/>
+    </linearGradient>
+    <linearGradient id="shieldG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5fa8e0"/>
+      <stop offset="1" stop-color="#1f6bb3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path d="M0,660 C120,630 240,690 380,660 C520,630 640,690 800,660 L800,800 L0,800 Z" fill="#a9d0f0"/>
+  <path d="M0,725 C140,695 260,755 400,725 C560,695 700,755 800,725 L800,800 L0,800 Z" fill="#5fa8e0"/>
+  <path d="M400,150 C400,150 290,205 290,330 C290,470 400,600 400,650 C400,600 510,470 510,330 C510,205 400,150 400,150 Z" fill="url(#shieldG)"/>
+  <path d="M400,120 C400,120 310,170 310,280 C310,400 400,510 400,565 C400,510 490,400 490,280 C490,170 400,120 400,120 Z" fill="#ffffff" opacity="0.9"/>
+  <path d="M400,170 C400,170 342,235 342,290 A58,58 0 1 0 458,290 C458,235 400,170 400,170 Z" fill="url(#dropG)"/>
+  <ellipse cx="400" cy="316" rx="26" ry="6" fill="#ffffff" opacity="0.5"/>
+  <path d="M400,370 L400,470" stroke="#5fa8e0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M400,470 L430,430" stroke="#5fa8e0" stroke-width="10" stroke-linecap="round" fill="none"/>
+</svg>

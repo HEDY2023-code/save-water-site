@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="WP2 Water data collection and harmonization illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6fc"/>
+      <stop offset="1" stop-color="#cfe6f5"/>
+    </linearGradient>
+    <linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed0f0"/>
+      <stop offset="1" stop-color="#2f7fc0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path d="M0,680 C120,650 240,710 380,680 C520,650 640,710 800,680 L800,800 L0,800 Z" fill="#a9d0f0"/>
+  <path d="M0,745 C140,715 260,775 400,745 C560,715 700,775 800,745 L800,800 L0,800 Z" fill="#5fa8e0"/>
+  <g>
+    <ellipse cx="400" cy="560" rx="135" ry="36" fill="#5fa8e0"/>
+    <rect x="265" y="560" width="270" height="130" fill="#a9d0f0"/>
+    <ellipse cx="400" cy="690" rx="135" ry="36" fill="#2f7fc0"/>
+    <path d="M300,600 L500,600" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity="0.75"/>
+    <path d="M300,640 L500,640" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  <path d="M400,150 C400,150 300,260 300,330 A100,100 0 1 0 500,330 C500,260 400,150 400,150 Z" fill="url(#dropG)"/>
+  <ellipse cx="400" cy="360" rx="52" ry="12" fill="#ffffff" opacity="0.35"/>
+  <path d="M360,420 L440,420" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M400,395 L400,445" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M332,520 C340,495 360,495 370,520 C380,495 400,495 410,520 C420,495 440,495 448,520" stroke="#2f7fc0" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>

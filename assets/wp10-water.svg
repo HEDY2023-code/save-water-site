@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="WP10 Ethics requirements illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef6fc"/>
+      <stop offset="1" stop-color="#cfe6f5"/>
+    </linearGradient>
+    <linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9ed0f0"/>
+      <stop offset="1" stop-color="#2f7fc0"/>
+    </linearGradient>
+    <linearGradient id="shieldG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5fa8e0"/>
+      <stop offset="1" stop-color="#1f6bb3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <path d="M0,660 C120,630 240,690 380,660 C520,630 640,690 800,660 L800,800 L0,800 Z" fill="#a9d0f0"/>
+  <path d="M0,725 C140,695 260,755 400,725 C560,695 700,755 800,725 L800,800 L0,800 Z" fill="#5fa8e0"/>
+  <path d="M400,130 C400,130 280,190 280,310 C280,450 400,580 400,640 C400,580 520,450 520,310 C520,190 400,130 400,130 Z" fill="url(#shieldG)"/>
+  <path d="M400,185 C400,185 320,235 320,330 C320,440 400,535 400,585 C400,535 480,440 480,330 C480,235 400,185 400,185 Z" fill="#ffffff" opacity="0.92"/>
+  <path d="M345,370 L390,415 L460,320" stroke="#1f6bb3" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M235,330 C245,305 265,305 275,330 C285,305 305,305 315,330 C325,305 345,305 355,330" stroke="#5fa8e0" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M470,220 C480,200 495,200 505,220 C515,200 530,200 540,220" stroke="#2f7fc0" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>
